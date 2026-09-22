@@ -129,11 +129,6 @@ where its extra latency goes.
 Submit results for other systems by pull request, with the predictions file and how it was
 produced.
 
-## Who made it
-
-Levanto Labs, who build the Sage decision model. Read results with that in mind. The mitigation
-is that every task and every label is here, and each label can be checked by hand from its item.
-
 ## Changelog
 
 - **1.0** (2026-09-22): first public release, 100 items.
