@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "multistep_decisions: a multistep decisions benchmark for decision models"
+version: "1.0"
+date-released: "2026-09-22"
+authors:
+  - name: "Levanto Labs"
+license: MIT
+repository-code: "https://github.com/levantolabs/multistep_decisions"

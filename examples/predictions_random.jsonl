@@ -1,0 +1,100 @@
+{"id": "msd-arith-01", "answer": "2328", "probs": {"2352": 0.25, "2400": 0.25, "2328": 0.25, "2376": 0.25}}
+{"id": "msd-arith-02", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-03", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-04", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-05", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-07", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-08", "answer": "over_1345", "probs": {"1330_to_1335": 0.25, "1335_to_1340": 0.25, "1340_to_1345": 0.25, "over_1345": 0.25}}
+{"id": "msd-arith-09", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-10", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-11", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-12", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-13", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-14", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-arith-15", "answer": "saas", "probs": {"build": 0.333333, "saas": 0.333333, "hybrid": 0.333333}}
+{"id": "msd-cal-01", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-02", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-03", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-04", "answer": "01:00", "probs": {"23:00": 0.25, "00:00": 0.25, "01:00": 0.25, "02:00": 0.25}}
+{"id": "msd-cal-05", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-06", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-07", "answer": "2026-03-31", "probs": {"2026-01-31": 0.25, "2026-02-28": 0.25, "2026-03-31": 0.25, "2026-02-15": 0.25}}
+{"id": "msd-cal-10", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-01", "answer": "3", "probs": {"3": 0.25, "4": 0.25, "5": 0.25, "6": 0.25}}
+{"id": "msd-count-02", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-03", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-05", "answer": "7", "probs": {"5": 0.25, "6": 0.25, "7": 0.25, "8": 0.25}}
+{"id": "msd-count-06", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-07", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-08", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-10", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-state-01", "answer": "write_only", "probs": {"read_and_write": 0.25, "read_only": 0.25, "write_only": 0.25, "nothing": 0.25}}
+{"id": "msd-state-02", "answer": "217", "probs": {"201": 0.25, "211": 0.25, "217": 0.25, "221": 0.25}}
+{"id": "msd-state-03", "answer": "cannot_determine", "probs": {"30_days": 0.333333, "45_days": 0.333333, "cannot_determine": 0.333333}}
+{"id": "msd-state-04", "answer": "approved", "probs": {"approved": 0.5, "declined": 0.5}}
+{"id": "msd-state-05", "answer": "in_progress", "probs": {"done": 0.25, "in_progress": 0.25, "cancelled": 0.25, "review": 0.25}}
+{"id": "msd-state-06", "answer": "paid", "probs": {"paid": 0.5, "violation": 0.5}}
+{"id": "msd-state-07", "answer": "active", "probs": {"active": 0.5, "inactive": 0.5}}
+{"id": "msd-state-08", "answer": "E", "probs": {"D": 0.25, "E": 0.25, "F": 0.25, "none": 0.25}}
+{"id": "msd-state-09", "answer": "yes", "probs": {"yes": 0.5, "no": 0.5}}
+{"id": "msd-state-10", "answer": "renews", "probs": {"renews": 0.333333, "ends": 0.333333, "cannot_determine": 0.333333}}
+{"id": "msd-check-04", "answer": "AB-123-B", "probs": {"AB-1234-A": 0.25, "AB-123-B": 0.25, "ab-1234-C": 0.25, "AB-1234-D": 0.25}}
+{"id": "msd-check-07", "answer": "2026-04-31", "probs": {"2026-02-29": 0.25, "2026-04-31": 0.25, "2026-13-01": 0.25, "2026-06-30": 0.25}}
+{"id": "msd-rank-01", "answer": "pack_b", "probs": {"pack_a": 0.166667, "pack_b": 0.166667, "pack_c": 0.166667, "pack_d": 0.166667, "pack_e": 0.166667, "pack_f": 0.166667}}
+{"id": "msd-rank-02", "answer": "pia", "probs": {"lena": 0.2, "marco": 0.2, "nina": 0.2, "omar": 0.2, "pia": 0.2}}
+{"id": "msd-rank-04", "answer": "fl_2", "probs": {"fl_1": 0.2, "fl_2": 0.2, "fl_3": 0.2, "fl_4": 0.2, "fl_5": 0.2}}
+{"id": "msd-rank-05", "answer": "loan_a", "probs": {"loan_a": 0.2, "loan_b": 0.2, "loan_c": 0.2, "loan_d": 0.2, "loan_e": 0.2}}
+{"id": "msd-rank-06", "answer": "greens", "probs": {"reds": 0.25, "blues": 0.25, "greens": 0.25, "golds": 0.25}}
+{"id": "msd-rank-08", "answer": "t_a", "probs": {"t_a": 0.142857, "t_b": 0.142857, "t_c": 0.142857, "t_d": 0.142857, "t_e": 0.142857, "t_f": 0.142857, "t_g": 0.142857}}
+{"id": "msd-verify-01", "answer": "none", "probs": {"c1": 0.25, "c2": 0.25, "c3": 0.25, "none": 0.25}}
+{"id": "msd-verify-02", "answer": "connection_2", "probs": {"connection_1": 0.333333, "connection_2": 0.333333, "none": 0.333333}}
+{"id": "msd-verify-03", "answer": "r2_and_r4", "probs": {"r1_only": 0.2, "r1_and_r4": 0.2, "r2_and_r4": 0.2, "r1_r2_r4": 0.2, "none": 0.2}}
+{"id": "msd-verify-04", "answer": "s3_only", "probs": {"s3_only": 0.2, "s5_only": 0.2, "s3_and_s5": 0.2, "s2_and_s3": 0.2, "none": 0.2}}
+{"id": "msd-verify-05", "answer": "flour_g", "probs": {"flour_g": 0.2, "eggs": 0.2, "milk_ml": 0.2, "sugar_g": 0.2, "butter_g": 0.2}}
+{"id": "msd-verify-07", "answer": "b_only", "probs": {"both": 0.25, "a_only": 0.25, "b_only": 0.25, "neither": 0.25}}
+{"id": "msd-verify-08", "answer": "both", "probs": {"kai_only": 0.25, "lia_only": 0.25, "both": 0.25, "neither": 0.25}}
+{"id": "msd-verify-09", "answer": "item_only", "probs": {"both": 0.25, "total_only": 0.25, "item_only": 0.25, "neither": 0.25}}
+{"id": "msd-verify-10", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-policy-01", "answer": "60", "probs": {"0": 0.25, "60": 0.25, "100": 0.25, "140": 0.25}}
+{"id": "msd-policy-02", "answer": "overdue", "probs": {"retain": 0.25, "delete_within_window": 0.25, "overdue": 0.25, "already_deleted": 0.25}}
+{"id": "msd-policy-03", "answer": "100_1_point", "probs": {"100_1_point": 0.25, "200_2_points": 0.25, "400_2_points": 0.25, "court": 0.25}}
+{"id": "msd-policy-04", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-policy-05", "answer": "1000", "probs": {"2000": 0.25, "1000": 0.25, "0": 0.25, "pending": 0.25}}
+{"id": "msd-policy-06", "answer": "nothing", "probs": {"nothing": 0.333333, "first_night": 0.333333, "full_stay": 0.333333}}
+{"id": "msd-policy-07", "answer": "820", "probs": {"0": 0.25, "600": 0.25, "820": 0.25, "870": 0.25}}
+{"id": "msd-policy-08", "answer": "500", "probs": {"400": 0.25, "500": 0.25, "550": 0.25, "600": 0.25}}
+{"id": "msd-policy-09", "answer": "out_of_time", "probs": {"declined": 0.333333, "accepted": 0.333333, "out_of_time": 0.333333}}
+{"id": "msd-policy-10", "answer": "letter", "probs": {"none": 0.333333, "letter": 0.333333, "meeting": 0.333333}}
+{"id": "msd-policy-11", "answer": "about_52", "probs": {"about_25": 0.25, "about_52": 0.25, "about_76": 0.25, "100": 0.25}}
+{"id": "msd-policy-12", "answer": "0_paid", "probs": {"4_paid": 0.25, "3_paid": 0.25, "2_paid": 0.25, "0_paid": 0.25}}
+{"id": "msd-opt-02", "answer": "route_1", "probs": {"route_1": 0.25, "route_2": 0.25, "route_3": 0.25, "route_4": 0.25}}
+{"id": "msd-opt-03", "answer": "offer_p", "probs": {"offer_p": 0.25, "offer_q": 0.25, "offer_r": 0.25, "offer_s": 0.25}}
+{"id": "msd-opt-04", "answer": "apt_1", "probs": {"apt_1": 0.25, "apt_2": 0.25, "apt_3": 0.25, "apt_4": 0.25}}
+{"id": "msd-opt-05", "answer": "model_fast", "probs": {"model_small": 0.25, "model_medium": 0.25, "model_large": 0.25, "model_fast": 0.25}}
+{"id": "msd-opt-06", "answer": "plan_a", "probs": {"plan_a": 0.25, "plan_b": 0.25, "plan_c": 0.25, "plan_d": 0.25}}
+{"id": "msd-opt-07", "answer": "vendor_c", "probs": {"vendor_a": 0.25, "vendor_b": 0.25, "vendor_c": 0.25, "vendor_d": 0.25}}
+{"id": "msd-xref-01", "answer": "pay", "probs": {"pay": 0.5, "hold": 0.5}}
+{"id": "msd-xref-02", "answer": "file", "probs": {"file": 0.5, "do_not_file": 0.5}}
+{"id": "msd-xref-03", "answer": "approved", "probs": {"approved": 0.5, "not_approved": 0.5}}
+{"id": "msd-xref-04", "answer": "no", "probs": {"yes": 0.5, "no": 0.5}}
+{"id": "msd-xref-05", "answer": "fail", "probs": {"pass": 0.5, "fail": 0.5}}
+{"id": "msd-xref-06", "answer": "dispute", "probs": {"pay": 0.5, "dispute": 0.5}}
+{"id": "msd-xref-07", "answer": "different", "probs": {"same": 0.5, "different": 0.5}}
+{"id": "msd-xref-08", "answer": "consistent", "probs": {"consistent": 0.5, "flag": 0.5}}
+{"id": "msd-xref-09", "answer": "fail", "probs": {"pass": 0.5, "fail": 0.5}}
+{"id": "msd-xref-10", "answer": "supported", "probs": {"supported": 0.5, "not_supported": 0.5}}
+{"id": "msd-arith-16", "answer": "0", "probs": {"0": 0.25, "480": 0.25, "1000": 0.25, "1200": 0.25}}
+{"id": "msd-arith-17", "answer": "decline_front_end", "probs": {"approve": 0.25, "decline_front_end": 0.25, "decline_back_end": 0.25, "decline_both": 0.25}}
+{"id": "msd-arith-18", "answer": "0", "probs": {"0": 0.25, "5": 0.25, "6": 0.25, "11": 0.25}}
+{"id": "msd-cal-11", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-12", "answer": "no", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-cal-13", "answer": "yes", "probs": {"no": 0.5, "yes": 0.5}}
+{"id": "msd-count-11", "answer": "flag", "probs": {"flag": 0.5, "approve": 0.5}}
+{"id": "msd-state-11", "answer": "P3", "probs": {"P3": 0.333333, "P2": 0.333333, "P1": 0.333333}}
+{"id": "msd-state-12", "answer": "36000", "probs": {"36000": 0.25, "40500": 0.25, "45000": 0.25, "50000": 0.25}}
+{"id": "msd-xref-11", "answer": "B4", "probs": {"B1": 0.166667, "B2": 0.166667, "B3": 0.166667, "B4": 0.166667, "B5": 0.166667, "B6": 0.166667}}
+{"id": "msd-opt-08", "answer": "o1_o3", "probs": {"o1_o3_o5": 0.25, "o1_o2_o3_o5": 0.25, "o3_o5": 0.25, "o1_o3": 0.25}}
+{"id": "msd-policy-13", "answer": "over_400", "probs": {"under_300": 0.25, "300_to_350": 0.25, "350_to_400": 0.25, "over_400": 0.25}}
+{"id": "msd-policy-14", "answer": "56", "probs": {"52": 0.25, "56": 0.25, "60": 0.25, "64": 0.25}}
+{"id": "msd-policy-15", "answer": "manager", "probs": {"manager": 0.2, "director": 0.2, "vp": 0.2, "cfo": 0.2, "ceo": 0.2}}
+{"id": "msd-verify-11", "answer": "night", "probs": {"morning": 0.25, "afternoon": 0.25, "night": 0.25, "none": 0.25}}

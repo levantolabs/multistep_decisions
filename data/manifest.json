@@ -1,0 +1,28 @@
+{
+ "name": "multistep_decisions",
+ "version": "1.0",
+ "n": 100,
+ "sha256": "c4574401fe840d81fd882c740de85326edf9d5f07ec4ae907da279117a0e3a88",
+ "families": {
+  "arithmetic_chain": 17,
+  "calendar_time": 11,
+  "counting_quantifiers": 9,
+  "state_tracking": 12,
+  "input_validation": 2,
+  "ranking_derived": 6,
+  "constraint_verification": 10,
+  "long_policy": 15,
+  "optimization": 7,
+  "cross_reference": 11
+ },
+ "types": {
+  "noul": 28,
+  "choice": 72
+ },
+ "expected_distribution": {
+  "yes": 15,
+  "no": 15
+ },
+ "frozen": "2026-09-22",
+ "format": "jevbench::v1.2 record"
+}
