@@ -117,14 +117,13 @@ should make is out of scope: the question is not whether a model can replace a f
 
 | Model | Accuracy | Correct | p50 | p90 |
 |---|---|---|---|---|
-| **Sage v1.1 (auto)** | **92.0%** | **92 / 100** | 910 ms | 1.51 s |
+| **Sage v1.1 (auto)** | **93.0%** | **93 / 100** | 1.10 s | 1.72 s |
 | Jev 1.13.0 | 71.0% | 71 / 100 | 240 ms | 290 ms |
 | Uniform random over `labels` (expected value) | 35.8% | | | |
 
-Measured 2026-09-22 from one machine in AWS us-east-2, one request at a time, both models
-through the same harness; latency is client wall clock. Repeat runs: Sage v1.1 (auto) 91, 92,
-93 and 92; Jev 1.13.0 69, 71 and 71. Sage decides per question whether to reason, which is
-where its extra latency goes.
+Measured from one machine in AWS us-east-2, one request at a time, both models through the same
+harness; latency is client wall clock. Jev 1.13.0 on 2026-09-22 (69, 71 and 71 across three runs);
+Sage v1.1 on 2026-09-23 with `reasoning: "auto"` (93 and 93 across two runs).
 
 Submit results for other systems by pull request, with the predictions file and how it was
 produced.
