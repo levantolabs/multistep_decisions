@@ -115,11 +115,11 @@ should make is out of scope: the question is not whether a model can replace a f
 
 ## Results
 
-| Model | Accuracy | Correct | p50 | p90 |
-|---|---|---|---|---|
-| **Sage v1.1 (auto)** | **93.0%** | **93 / 100** | 1.10 s | 1.72 s |
-| Jev 1.13.0 | 71.0% | 71 / 100 | 240 ms | 290 ms |
-| Uniform random over `labels` (expected value) | 35.8% | | | |
+| Model | Accuracy | Correct | p50 |
+|---|---|---|---|
+| **Sage v1.1 (auto)** | **93.0%** | **93 / 100** | 1.10 s |
+| Jev 1.13.0 | 71.0% | 71 / 100 | 240 ms |
+| Uniform random over `labels` (expected value) | 35.8% | | |
 
 Measured from one machine in AWS us-east-2, one request at a time, both models through the same
 harness; latency is client wall clock. Jev 1.13.0 on 2026-09-22 (69, 71 and 71 across three runs);
